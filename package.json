@@ -1,0 +1,17 @@
+{
+  "name": "rem.js",
+  "version": "1.0.0",
+  "description": "移动端页面自动适配脚本",
+  "main": "rem.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuweiyou/rem.js.git"
+  },
+  "author": "zhuweiyou <i@zhuweiyou.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhuweiyou/rem.js/issues"
+  },
+  "homepage": "https://github.com/zhuweiyou/rem.js#readme"
+}
