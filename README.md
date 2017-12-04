@@ -10,13 +10,13 @@
 
 建议直接 inline，或者在 `<head>` 中引入（尽量让它早执行）
 
-- LOCAL
+- 本地
 
 ```bash
 npm i --save rem.js
 ```
 ```html
-<script src="./node_modules/rem.js/rem.js" data-psd="750"></script>
+<script src="./node_modules/rem.js/rem.min.js" data-psd="750"></script>
 ```
 
 - CDN
