@@ -1,9 +1,11 @@
 {
   "name": "rem.js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "移动端页面自动适配脚本",
-  "main": "rem.js",
-  "scripts": {},
+  "main": "rem.min.js",
+  "scripts": {
+    "min": "uglify -s rem.js -o rem.min.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zhuweiyou/rem.js.git"
