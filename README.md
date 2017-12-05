@@ -6,6 +6,8 @@
 
 移动端页面自动适配脚本，改造自 [amfe/lib-flexible](https://github.com/amfe/lib-flexible)
 
+[查看示例](https://zhuweiyou.github.io/rem.js/)
+
 ## 使用
 
 建议直接 inline，或者在 `<head>` 中引入（尽量让它早执行）
