@@ -1,5 +1,7 @@
 # rem.js
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zhuweiyou/rem.js.svg)](https://greenkeeper.io/)
+
 [![License MIT](https://img.shields.io/npm/l/rem.js.svg)](https://github.com/zhuweiyou/rem.js/blob/master/LICENSE)
 [![NPM Version](https://img.shields.io/npm/v/rem.js.svg)](https://www.npmjs.com/package/rem.js)
 [![NPM Download](https://img.shields.io/npm/dt/rem.js.svg)](https://www.npmjs.com/package/rem.js)
